@@ -2,7 +2,7 @@ import time
 
 start = time.perf_counter()
 # Using readlines()
-file1 = open(r'C:\git\AOC\input.txt', 'r')
+file1 = open(r'C:\git\AdventOfCode2022\AOC\input1.txt', 'r')
 Lines = file1.readlines()
 
 max_cal = 0
