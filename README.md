@@ -1,2 +1,3 @@
-# AOC
-Solutions for Advent of Code
+# AdventOfCode
+
+My solutions for https://adventofcode.com/
